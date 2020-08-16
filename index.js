@@ -16,3 +16,10 @@ var testTask = function(){
     console.log(testTask)
 >>>>>>> test
 }
+
+var testComplete = function(){
+    console.log(testComplete)
+}
+var doneTask = function(){
+    console.log(doneTask)
+}
